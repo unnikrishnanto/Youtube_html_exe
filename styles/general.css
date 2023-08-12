@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    padding-bottom: 200px;
+    background-color: rgb(248, 248, 248);
+
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
